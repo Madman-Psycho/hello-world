@@ -1,3 +1,5 @@
 # hello-world
 newbie starting sth. 
-sadfasdgasha asdg asdf a
+ 
+ i wanna learn python 
+ any advices ????
